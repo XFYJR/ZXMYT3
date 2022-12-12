@@ -143,6 +143,8 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/酷云77.js"
         },
+        {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./js/alistjar.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
             {
             "key" : "drpy_js_DJ音乐",
             "name" : "音频|DJ音乐[JS]",
