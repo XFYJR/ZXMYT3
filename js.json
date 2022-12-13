@@ -11,7 +11,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/豆瓣.js"
         },
-          {"key":"drpy_js_厂长资源","name":"厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
+          {"key":"drpy_js_厂长资源","name":"厂长资源[JS]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
         {
             "key" : "drpy_js_百忙无果",
             "name" : "官源|芒果[JS]",
