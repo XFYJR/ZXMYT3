@@ -114,7 +114,16 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/看一看影视.js"
         },
-         
+            {
+             "key":"drpy_js_哔嘀影视",
+             "name":"影视 | 哔嘀影视[js]",
+             "type":3,
+             "searchable" : 2,
+             "quickSearch" : 1,
+             "filterable" : 0,
+             "api":"./lib/drpy2.min.js",
+             "ext":"./js/哔嘀影视.js"
+         },
          
            {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
            {
