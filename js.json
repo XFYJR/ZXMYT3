@@ -1683,7 +1683,7 @@
          {"key":"Upyunso","name":"云搜┃(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./token.txt"},
          {"key":"Alips","name":"盘搜索┃(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./token.txt"},   
        {
-            "key" : "push_agent",
+            "key" : "PushAgent",
             "name" : "🎯推送",
             "type" : 3,
             "api" : "csp_PushAgent",
