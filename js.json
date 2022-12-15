@@ -548,16 +548,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/快看.js"
         },
-            {
-            "key" : "drpy_js_低端",
-            "name" : "低端[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/ddys.js"
-        },
+            
             {
             "key" : "drpy_js_69美剧",
             "name" : "69美剧[JS]",
@@ -809,14 +800,14 @@
             "ext" : "./js/爱看电影.js"
         },
             {
-            "key" : "drpy_js_特狗影视",
-            "name" : "特狗影视[JS]",
+            "key" : "drpy_js_土狗影院",
+            "name" : "土狗影院[JS]",
             "type" : 3,
             "searchable" : 2,
             "quickSearch" : 1,
             "filterable" : 0,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/特狗影视.js"
+            "ext" : "./js/土狗影院.js"
         },
             {
             "key" : "drpy_js_皮皮泡",
