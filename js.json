@@ -227,16 +227,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/哔哩直播.js"
         },
-            {
-            "key" : "drpy_js_子子影视",
-            "name" : "子子影视[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/子子影视.js"
-        },
+            
             {
             "key" : "drpy_js_HDmoli",
             "name" : "HDmoli[JS]",
@@ -518,26 +509,8 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/海兔影院.js"
         },
-            {
-            "key" : "drpy_js_电影大师",
-            "name" : "电影大师[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/电影大师.js"
-        },
-      {
-            "key" : "drpy_js_电影先生",
-            "name" : "电影先生[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/电影先生.js"
-        },
+            
+      
             {
             "key" : "drpy_js_快看",
             "name" : "快看[JS]",
@@ -809,16 +782,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/土狗影院.js"
         },
-            {
-            "key" : "drpy_js_皮皮泡",
-            "name" : "皮皮泡[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/皮皮泡.js"
-        },
+            
             {
             "key" : "drpy_js_看了么",
             "name" : "看了么[JS]",
@@ -1231,16 +1195,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/539影院.js"
         },
-            {
-            "key" : "drpy_js_瓜皮TV",
-            "name" : "瓜皮TV[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/瓜皮TV.js"
-        },
+            
             {
             "key" : "drpy_js_西瓜影视",
             "name" : "西瓜影视[JS]",
@@ -1573,7 +1528,17 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/异世界动漫.js"
         },
-                        {
+           {
+            "key" : "drpy_js_子子影视",
+            "name" : "子子影视[JS]",
+            "type" : 3,
+            "searchable" : 2,
+            "quickSearch" : 1,
+            "filterable" : 0,
+            "api" : "./lib/drpy2.min.js",
+            "ext" : "./js/子子影视.js"
+        },
+          {
             "key" : "drpy_js_蜻蜓FM",
             "name" : "广播|蜻蜓FM[JS]",
             "type" : 3,
