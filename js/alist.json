@@ -14,6 +14,13 @@
         "search" : true
     },
         {
+        "name" : "💂小兵网盘影视",
+        "server" : "https://6vv.app",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
         "name" : "杜比",
         "server" : "https://dubi.tk",
         "startPage" : "/",
@@ -42,13 +49,7 @@
         "showAll" : false,
         "search" : true
     },
-        {
-        "name" : "💂小兵组网盘影视",
-        "server" : "https://6vv.app",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
+        
         {
         "name" : "🐋一只鱼",
         "server" : "https://alist.youte.ml",
