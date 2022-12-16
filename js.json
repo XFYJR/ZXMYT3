@@ -545,14 +545,14 @@
             "ext" : "./js/69美剧.js"
         },
             {
-            "key" : "drpy_js_唐人街影视[飞]",
-            "name" : "唐人街影视[飞][JS]",
+            "key" : "drpy_js_城市电影",
+            "name" : "城市电影[JS]",
             "type" : 3,
             "searchable" : 2,
             "quickSearch" : 1,
             "filterable" : 0,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/唐人街影[飞].js"
+            "ext" : "./js/城市电影.js"
         },
             {
             "key" : "drpy_js_素白白",
@@ -706,13 +706,13 @@
         },
             {
             "key" : "drpy_js_剧荒",
-            "name" : "剧荒[JS]",
+            "name" : "剧荒TV[JS]",
             "type" : 3,
             "searchable" : 2,
             "quickSearch" : 1,
             "filterable" : 0,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/剧荒.js"
+            "ext" : "./js/剧荒TV.js"
         },
             {
             "key" : "drpy_js_剧迷",
