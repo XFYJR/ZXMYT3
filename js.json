@@ -624,16 +624,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/麦豆.js"
         },
-            {
-            "key" : "drpy_js_l0l",
-            "name" : "l0l[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/l0l.js"
-        },
+            
             {
             "key" : "drpy_js_番茄影视",
             "name" : "番茄影视[JS]",
@@ -664,16 +655,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/喵喵.js"
         },
-            {
-            "key" : "drpy_js_MXONE",
-            "name" : "MXONE[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/MXONE.js"
-        },
+            
             {
             "key" : "drpy_js_Nike影视",
             "name" : "Nike影视[JS]",
@@ -855,16 +837,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/小强迷.js"
         },
-            {
-            "key" : "drpy_js_玄天",
-            "name" : "玄天[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/玄天.js"
-        },
+            
             {
             "key" : "drpy_js_鸭奈飞",
             "name" : "鸭奈飞[JS]",
@@ -1403,67 +1376,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/蛋蛋赞.js"
         },
-            {
-            "key" : "drpy_js_酷酷韩剧",
-            "name" : "酷酷韩剧[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/酷酷韩剧.js"
-        },
-            {
-            "key" : "drpy_js_稀饭影视",
-            "name" : "稀饭影视[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/稀饭影视.js"
-        },
-            {
-            "key" : "drpy_js_欧帝影院[飞]",
-            "name" : "欧帝影院[飞][JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/欧帝影院[飞].js"
-        },
-            {
-            "key" : "drpy_js_UrleBird[飞]",
-            "name" : "UrleBird[飞][JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/UrleBird[飞].js"
-        },
-            {
-            "key" : "drpy_js_冲TMTV[飞]",
-            "name" : "冲TMTV[飞][JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/冲TMTV[飞].js"
-        },
-            {
-            "key" : "drpy_js_KUBO影视[飞]",
-            "name" : "KUBO影视[飞][JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/KUBO影视[飞].js"
-        },
-            {
+                        {
             "key" : "drpy_js_兔小贝",
             "name" : "兔小贝[JS]",
             "type" : 3,
