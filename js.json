@@ -552,7 +552,7 @@
             "quickSearch" : 1,
             "filterable" : 0,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/唐人街影视[飞].js"
+            "ext" : "./js/唐人街影[飞].js"
         },
             {
             "key" : "drpy_js_素白白",
@@ -807,7 +807,7 @@
         },
             {
             "key" : "drpy_js_胖虎",
-            "name" : "胖虎[JS]",
+            "name" : "胖虎影视[JS]",
             "type" : 3,
             "searchable" : 2,
             "quickSearch" : 1,
