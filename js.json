@@ -451,16 +451,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/真不卡.js"
         },
-            {
-            "key" : "drpy_js_看片狂人",
-            "name" : "看片狂人[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/看片狂人.js"
-        },
+            
             {
             "key" : "drpy_js_美视网",
             "name" : "美视网[JS]",
@@ -888,17 +879,6 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/南瓜影院.js"
         },
-
-            {
-            "key" : "drpy_js_555影视",
-            "name" : "555影视[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/555影视.js"
-        },
             {
             "key" : "drpy_js_蓝光影院",
             "name" : "蓝光影院[JS]",
@@ -919,16 +899,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/莫扎兔.js"
         },
-            {
-            "key" : "drpy_js_追剧喵",
-            "name" : "追剧喵[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/追剧喵.js"
-        },
+            
             {
             "key" : "drpy_js_1080P",
             "name" : "1080P[JS]",
@@ -969,26 +940,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/大米星球.js"
         },
-            {
-            "key" : "drpy_js_剧白白",
-            "name" : "剧白白[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/剧白白.js"
-        },
-            {
-            "key" : "drpy_js_库马伊",
-            "name" : "库马伊[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/库马伊.js"
-        },
+            
             {
             "key" : "drpy_js_看视界",
             "name" : "看视界[JS]",
@@ -1009,16 +961,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/奇优影院.js"
         },
-            {
-            "key" : "drpy_js_饭团",
-            "name" : "饭团[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/饭团.js"
-        },
+            
             {
             "key" : "drpy_js_兰花影院",
             "name" : "兰花影院[JS]",
@@ -1069,16 +1012,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/映迷影院.js"
         },
-            {
-            "key" : "drpy_js_趣享星趣",
-            "name" : "趣享星趣[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/趣享星趣.js"
-        },
+            
             {
             "key" : "drpy_js_独播库",
             "name" : "独播库[JS]",
@@ -1161,16 +1095,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/量子影视.js"
         },
-            {
-            "key" : "drpy_js_539影院",
-            "name" : "539影院[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/539影院.js"
-        },
+            
             
             {
             "key" : "drpy_js_西瓜影视",
