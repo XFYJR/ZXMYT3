@@ -1136,16 +1136,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/NY影院.js"
         },
-            {
-            "key" : "drpy_js_新视觉影视",
-            "name" : "新视觉影视[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/新视觉影视.js"
-        },
+            
             {
             "key" : "drpy_js_小白菜电影",
             "name" : "小白菜电影[JS]",
@@ -1320,16 +1311,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/捷华影视.js"
         },
-            {
-            "key" : "drpy_js_欧乐影院",
-            "name" : "欧乐影院[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/欧乐影院.js"
-        },
+            
             {
             "key" : "drpy_js_霹雳影视",
             "name" : "霹雳影视[JS]",
@@ -1370,16 +1352,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/我爱跟剧.js"
         },
-            {
-            "key" : "drpy_js_小宝影视",
-            "name" : "小宝影视[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/小宝影视.js"
-        },
+            
             {
             "key" : "drpy_js_小宝影院",
             "name" : "小宝影院[JS]",
