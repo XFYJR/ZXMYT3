@@ -260,26 +260,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/歪片星球.js"
         },
-            {
-            "key" : "drpy_js_小猫咪",
-            "name" : "小猫咪[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 0,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/小猫咪.js"
-        },
-            {
-            "key" : "drpy_js_海外看影院",
-            "name" : "海外看影院[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 0,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/海外看影院.js"
-        },
+            
             {
             "key" : "drpy_js_追剧迷",
             "name" : "追剧迷[JS]",
