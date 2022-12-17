@@ -261,16 +261,7 @@
             "ext" : "./js/歪片星球.js"
         },
             
-            {
-            "key" : "drpy_js_追剧迷",
-            "name" : "追剧迷[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/追剧迷.js"
-        },
+            
             {
             "key" : "drpy_js_盛世电影网",
             "name" : "盛世电影网[JS]",
