@@ -1,5 +1,5 @@
 {
-    "spider" : "./spider.jar;md5;e80798750eca57470f29d1942bce39bb",
+    "spider" : "./xo.jar;md5;c02b8653b8c3d270081b35fc48b5b5c6",
     "sites" : [
             {
             "key" : "drpy_js_豆瓣",
