@@ -1452,7 +1452,7 @@
          {"key":"Zhaozy","name":"找资源┃(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./token.json"},
          {"key":"Upyunso","name":"云搜┃(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./token.json"},
          {"key":"Alips","name":"盘搜索┃(仅搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./token.json"},   
-         {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/XFYJR/ZXMYT3/main/%E7%9E%A9%E7%9B%AE.json"}],
+         {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "./token.json"}],
 
     "lives" : [
             {
