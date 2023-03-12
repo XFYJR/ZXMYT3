@@ -158,17 +158,7 @@
             "ext" : "./js/酷云77.js"
         },
             
-           {
-            "key" : "drpy_js_DJ音乐",
-            "name" : "音频|DJ音乐[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/DJ音乐.js",
-            "playerType" : "2"
-        },
+           
             {
             "key" : "drpy_js_短视频",
             "name" : "聚合|短视频[JS]",
@@ -179,26 +169,7 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/短视频.js"
         },
-            {
-            "key" : "drpy_js_酷奇MV",
-            "name" : "酷奇MV[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/酷奇MV.js"
-        },
-            {
-            "key" : "drpy_js_爱车MV",
-            "name" : "爱车MV[JS]",
-            "type" : 3,
-            "searchable" : 2,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/爱车MV.js"
-        },
+            
          
             {
             "key" : "drpy_js_歪片星球",
