@@ -175,7 +175,7 @@
             "quickSearch" : 1,
             "filterable" : 0,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/凌云.js"
+            "ext" : "./js/凌云影视.js"
         },
            {
             "key" : "drpy_js_DJ音乐",
