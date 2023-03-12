@@ -115,7 +115,8 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/LIBVIO.js"
         },
-            
+           {"key":"drpy_js_大豆","name":"影视 | 大豆[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
+           {"key":"drpy_js_九酷","name":"影视 | 九酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/九酷.js"},
            {
             "key" : "drpy_js_看一看影视",
             "name" : "看一看影视[JS]",
