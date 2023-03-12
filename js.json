@@ -147,7 +147,6 @@
              "ext":"./js/哔嘀影视.js"
          },
          
-           {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
            {
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[JS]",
@@ -366,14 +365,14 @@
             "ext" : "./js/视觉影院.js"
         },
             {
-            "key" : "drpy_js_利丽娅电影",
-            "name" : "利丽娅电影[JS]",
+            "key" : "drpy_js_利娅电影",
+            "name" : "利娅电影[JS]",
             "type" : 3,
             "searchable" : 2,
             "quickSearch" : 1,
             "filterable" : 0,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "./js/利丽娅电影.js"
+            "ext" : "./js/利娅电影.js"
         },
             {
             "key" : "drpy_js_楚门影院",
