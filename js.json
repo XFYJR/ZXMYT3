@@ -137,64 +137,64 @@
             "ext" : "./js/酷客影院.js"
         },
           {
-            "key" : "drpy_js_l0l" ,
-            "name" : "l0l影视[JS] " ,
+            "key" : "drpy_js_l0l",
+            "name" : "l0l影视[JS]",
             "type"：3,
             "searchable"：2,
             "quickSearch"：0,
             "filterable"：1,
-            "api"：" ./lib/drpy2.min.js ",
-            "ext" : " ./js/l0l.js "
+            "api"："./lib/drpy2.min.js",
+            "ext" : "./js/l0l.js"
         },
        {
-            "key" : " drpy_js_冷曦影视" ,
-            "name" : "冷曦影视[JS] " ,
+            "key" : "drpy_js_冷曦影视",
+            "name" : "冷曦影视[JS]",
             "type"：3,
             "searchable"：2,
             "quickSearch"：0,
             "filterable"：1,
-            "api"：" ./lib/drpy2.min.js ",
-            "ext" : " ./js/冷曦影视.js "
+            "api"："./lib/drpy2.min.js",
+            "ext" : "./js/冷曦影视.js"
         },
        {
-            "key" : " drpy_js_HDmoli" ,
-            "name" : "HDmoli[JS] " ,
+            "key" : "drpy_js_HDmoli",
+            "name" : "HDmoli[JS]",
             "type"：3,
             "searchable"：2,
             "quickSearch"：0,
             "filterable"：1,
-            "api"：" ./lib/drpy2.min.js ",
-            "ext" : " ./js/HDmoli.js "
+            "api"："./lib/drpy2.min.js",
+            "ext" : "./js/HDmoli.js"
         },
        {
-            "key" : " drpy_js_在线之家" ,
-            "name" : "在线之家[JS] " ,
+            "key" : "drpy_js_在线之家",
+            "name" : "在线之家[JS]",
             "type"：3,
             "searchable"：2,
             "quickSearch"：0,
             "filterable"：1,
-            "api"：" ./lib/drpy2.min.js ",
-            "ext" : " ./js/在线之家.js "
+            "api"："./lib/drpy2.min.js",
+            "ext" : "./js/在线之家.js"
         },
         {
-            "key" : " drpy_js_影视之家" ,
-            "name" : "影视之家[JS] " ,
+            "key" : "drpy_js_影视之家",
+            "name" : "影视之家[JS]",
             "type"：3,
             "searchable"：2,
             "quickSearch"：0,
             "filterable"：1,
-            "api"：" ./lib/drpy2.min.js ",
-            "ext" : " ./js/影视之家.js "
+            "api"："./lib/drpy2.min.js",
+            "ext" : "./js/影视之家.js"
         },
        {
-            "key" : " drpy_js_新片场" ,
-            "name" : "新片场[JS] " ,
+            "key" : "drpy_js_新片场",
+            "name" : "新片场[JS]",
             "type"：3,
             "searchable"：2,
             "quickSearch"：0,
             "filterable"：1,
-            "api"：" ./lib/drpy2.min.js ",
-            "ext" : " ./js/新片场.js "
+            "api"："./lib/drpy2.min.js",
+            "ext" : "./js/新片场.js"
         },
          
            {
