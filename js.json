@@ -136,7 +136,66 @@
             "api" : "./lib/drpy2.min.js",
             "ext" : "./js/酷客影院.js"
         },
-            
+                      {
+            "key" : "drpy_js_l0l" ,
+            "name" : "l0l影视[JS] " ,
+            "类型"：3,
+            "可搜索"：2,
+            "快速搜索"：0,
+            "可过滤"：1,
+            "api"：" ./lib/drpy2.min.js ",
+            "ext" : " ./js/l0l.js "
+        },
+       {
+            "key" : " drpy_js_冷曦影视" ,
+            "name" : "冷曦影视[JS] " ,
+            "类型"：3,
+            "可搜索"：2,
+            "快速搜索"：0,
+            "可过滤"：1,
+            "api"：" ./lib/drpy2.min.js ",
+            "ext" : " ./js/冷曦影视.js "
+        },
+       {
+            "key" : " drpy_js_HDmoli" ,
+            "name" : "HDmoli[JS] " ,
+            "类型"：3,
+            "可搜索"：2,
+            "快速搜索"：0,
+            "可过滤"：1,
+            "api"：" ./lib/drpy2.min.js ",
+            "ext" : " ./js/HDmoli.js "
+        },
+       {
+            "key" : " drpy_js_在线之家" ,
+            "name" : "在线之家[JS] " ,
+            "类型"：3,
+            "可搜索"：2,
+            "快速搜索"：0,
+            "可过滤"：1,
+            "api"：" ./lib/drpy2.min.js ",
+            "ext" : " ./js/在线之家.js "
+        },
+        {
+            "key" : " drpy_js_影视之家" ,
+            "name" : "影视之家[JS] " ,
+            "类型"：3,
+            "可搜索"：2,
+            "快速搜索"：0,
+            "可过滤"：1,
+            "api"：" ./lib/drpy2.min.js ",
+            "ext" : " ./js/影视之家.js "
+        },
+       {
+            "key" : " drpy_js_新片场" ,
+            "name" : "新片场[JS] " ,
+            "类型"：3,
+            "可搜索"：2,
+            "快速搜索"：0,
+            "可过滤"：1,
+            "api"：" ./lib/drpy2.min.js ",
+            "ext" : " ./js/新片场.js "
+        },
          
            {
             "key" : "drpy_js_酷云77",
