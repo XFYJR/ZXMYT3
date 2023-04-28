@@ -1565,7 +1565,10 @@
                 }
             }
         },
-            {
+           {"name":"布蕾","type":0,"url":"http://qqbf.bulei.cc/player/?url="},
+           {"name":"布蕾1","type":0,"url":"https://bf.bulei.cc/player/?url="},
+           {"name":"布蕾2","type":0,"url":"https://mgtv.bulei.cc/player/?url="},
+       {
             "name" : "xmflv",
             "type" : 0,
             "url" : "https://jx.xmflv.com/?url="
